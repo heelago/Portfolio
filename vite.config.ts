@@ -3,7 +3,6 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  publicDir: 'images',
   build: {
     outDir: 'dist',
     assetsDir: 'assets',

@@ -1,117 +1,118 @@
 import { Category, Photo } from './types';
 
 export const PHOTOS: Photo[] = [
+  // --- LOCAL HAYARKON PHOTOS ---
   {
-    id: '1',
-    url: '/seagulls-interaction.jpg',
+    id: '12',
+    url: 'images/seagulls-interaction.jpg',
     category: Category.HAYARKON,
     description: 'Seagulls interaction'
   },
   {
-    id: '2',
-    url: '/egret-tree-berries-down.jpg',
+    id: '13',
+    url: 'images/egret-tree-berries-down.jpg',
     category: Category.HAYARKON,
     description: 'Egret in autumn tree'
   },
   {
-    id: '3',
-    url: '/egret-tree-berries-tucked.jpg',
+    id: '14',
+    url: 'images/egret-tree-berries-tucked.jpg',
     category: Category.HAYARKON,
     description: 'Egret resting in tree'
   },
   {
-    id: '4',
-    url: '/rowing-center-night.jpg',
+    id: '15',
+    url: 'images/rowing-center-night.jpg',
     category: Category.HAYARKON,
     description: 'Rowing center architecture at night'
   },
   {
-    id: '5',
-    url: '/river-sunset-bridge.jpg',
+    id: '16',
+    url: 'images/river-sunset-bridge.jpg',
     category: Category.HAYARKON,
     description: 'Sunset over the bridge'
   },
   {
-    id: '6',
-    url: '/rower-night-vertical.jpg',
+    id: '17',
+    url: 'images/rower-night-vertical.jpg',
     category: Category.HAYARKON,
     description: 'Night rower with light reflection'
   },
   {
-    id: '7',
-    url: '/goose-family-dock.jpg',
+    id: '18',
+    url: 'images/goose-family-dock.jpg',
     category: Category.HAYARKON,
     description: 'Egyptian goose family on dock'
   },
   {
-    id: '8',
-    url: '/heron-flight-wings.jpg',
+    id: '19',
+    url: 'images/heron-flight-wings.jpg',
     category: Category.HAYARKON,
     description: 'Grey Heron in flight'
   },
   {
-    id: '9',
-    url: '/heron-landing-wings-up.jpg',
+    id: '20',
+    url: 'images/heron-landing-wings-up.jpg',
     category: Category.HAYARKON,
     description: 'Heron landing display'
   },
   {
-    id: '10',
-    url: '/heron-standing-profile.jpg',
+    id: '21',
+    url: 'images/heron-standing-profile.jpg',
     category: Category.HAYARKON,
     description: 'Grey Heron profile'
   },
   {
-    id: '11',
-    url: '/goose-family-swim.jpg',
+    id: '22',
+    url: 'images/goose-family-swim.jpg',
     category: Category.HAYARKON,
     description: 'Egyptian goose family swimming'
   },
   {
-    id: '12',
-    url: '/birds-wire-silhouette.jpg',
+    id: '23',
+    url: 'images/birds-wire-silhouette.jpg',
     category: Category.HAYARKON,
     description: 'Birds on a wire'
   },
   {
-    id: '13',
-    url: '/yellow-flowers.jpg',
+    id: '24',
+    url: 'images/yellow-flowers.jpg',
     category: Category.HAYARKON,
     description: 'Yellow wildflowers'
   },
   {
-    id: '14',
-    url: '/rower-abstract-night.jpg',
+    id: '26',
+    url: 'images/rower-abstract-night.jpg',
     category: Category.HAYARKON,
     description: 'Abstract night rowing'
   },
   {
-    id: '15',
-    url: '/juvenile-night-heron.jpg',
+    id: '27',
+    url: 'images/juvenile-night-heron.jpg',
     category: Category.HAYARKON,
     description: 'Juvenile Night Heron'
   },
   {
-    id: '16',
-    url: '/duckling-solo.jpg',
+    id: '28',
+    url: 'images/duckling-solo.jpg',
     category: Category.HAYARKON,
     description: 'Duckling close-up'
   },
   {
-    id: '17',
-    url: '/ducklings-pair.jpg',
+    id: '29',
+    url: 'images/ducklings-pair.jpg',
     category: Category.HAYARKON,
     description: 'Pair of ducklings'
   },
   {
-    id: '18',
-    url: '/duck-reflection.jpg',
+    id: '30',
+    url: 'images/duck-reflection.jpg',
     category: Category.HAYARKON,
     description: 'Duck reflection'
   },
   {
-    id: '19',
-    url: '/egret-fishing.jpg',
+    id: '31',
+    url: 'images/egret-fishing.jpg',
     category: Category.HAYARKON,
     description: 'Egret catching fish'
   }
