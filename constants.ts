@@ -151,12 +151,6 @@ export const PHOTOS: Photo[] = [
     description: 'Yellow wildflowers'
   },
   {
-    id: '25',
-    url: 'images/egret-spread-wings.jpg',
-    category: Category.HAYARKON,
-    description: 'Egret spreading wings'
-  },
-  {
     id: '26',
     url: 'images/rower-abstract-night.jpg',
     category: Category.HAYARKON,
