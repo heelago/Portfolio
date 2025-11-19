@@ -28,7 +28,7 @@ const Footer: React.FC = () => {
           </a>
 
           <a 
-            href="mailto:heelagoren@gmail.com"
+            href="mailto:heelago@gmail.com"
             className="flex flex-col items-center gap-2 text-pastel-text/70 hover:text-pastel-accent transition-colors duration-300 group cursor-pointer"
           >
             <div className="p-3 rounded-full bg-white shadow-sm group-hover:shadow-md transition-all duration-300 ring-1 ring-slate-100 group-hover:ring-pastel-blue">
